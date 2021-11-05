@@ -10,7 +10,7 @@
 
 > **when it start open your browser on port 3000 or you can curl it, like curl localhost:3000**
 
-### - **Now copy the Dockerfile from this repo to your code**
+### - **Now copy the Dockerfile from this [repo](https://github.com/ahmedbejaouiJS/workshop/blob/master/TBS/docker/week2/Dockerfile) to your code**
 
 ### - **after you test it let's build an docker image from it**
 1. docker build -t mytbs .
